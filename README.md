@@ -1,0 +1,2 @@
+# simple-a-task
+exercise
